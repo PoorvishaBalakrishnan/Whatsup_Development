@@ -12,3 +12,7 @@ Author: PoorvishaBalakrishnan
 
 Hiding the whatsup Last seen added new functionality
 
+Adding the Audio Call feature
+
+Adding the video call feature
+
