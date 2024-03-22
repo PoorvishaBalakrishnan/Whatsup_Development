@@ -9,3 +9,6 @@ Author: PoorvishaBalakrishnan
 03. Last seen code
 
 04.Attachments ( Image, Audio,video) code
+
+Hiding the whatsup Last seen added new functionality
+
